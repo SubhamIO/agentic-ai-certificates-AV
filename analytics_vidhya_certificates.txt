@@ -1,0 +1,34 @@
+1. Explore Gen AI Universe: https://courses.analyticsvidhya.com/certificates/ao9hbhq7n5
+
+2. Anyone can build AI Agents: https://courses.analyticsvidhya.com/certificates/a95byuqhbt
+
+3. Coding essentials for Agents:
+https://courses.analyticsvidhya.com/certificates/ipb6bkzgbl
+
+4. Introduction to Langchain or Agentic AI: https://courses.analyticsvidhya.com/certificates/nmjtcomhfb
+
+5. Prompt Engineering Essentials: https://courses.analyticsvidhya.com/certificates/igctskxguj
+
+6. RAG systems Essentials: https://courses.analyticsvidhya.com/certificates/a8qejhcbmr
+
+7. Agentic AI System Architectures and Design Patterns: https://courses.analyticsvidhya.com/certificates/exsr5vnkaf
+
+8. Building AI Agents from Scratch: https://courses.analyticsvidhya.com/certificates/9jplnl4jqc
+
+9. Building AI Agents with LangChain: https://courses.analyticsvidhya.com/certificates/nvcrkimfsz
+
+10. Building your First AI Agent with LangGraph: https://courses.analyticsvidhya.com/certificates/kw2ks5mvj4
+
+11. Building your First AI Agent with AutoGen: https://courses.analyticsvidhya.com/certificates/ndhd9p2qji
+
+12. Building your First AI Agent with CrewAI: https://courses.analyticsvidhya.com/certificates/x36ihqnmeo
+
+13. Building Advanced AI Agents with LangGraph: https://courses.analyticsvidhya.com/certificates/toii6lc8ze
+
+14. Building Advanced AI Agents with AutoGen: https://courses.analyticsvidhya.com/certificates/euxwfuiqqr
+
+15. Building Advanced AI Agents with CrewAI: https://courses.analyticsvidhya.com/certificates/pbswi08gcc
+
+16. Project: Building Agentic RAG using Autogen for eCommerce: https://courses.analyticsvidhya.com/certificates/r8ungkgv37
+
+17. Project: Building Multi-Agent AI system for Hotel Reservations: https://courses.analyticsvidhya.com/certificates/vag0afhfbu
